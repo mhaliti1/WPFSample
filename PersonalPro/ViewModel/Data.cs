@@ -12,7 +12,7 @@ namespace PersonalPro.ViewModel
     public static class Constants
     {
 
-        public const string Connect = "Data Source=vrsqladhoc;Initial Catalog=LoanAdminWrite;Integrated Security=True;";
+        public const string Connect = "Data Source=;Initial Catalog=;Integrated Security=True;";
     }
     public class dbConnect
     {
